@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="welcomeback">Welcome Back</string>
+    <string name="wb_txt">sign in to access your account</string>
+    <string name="mail">Enter your Email</string>
+    <string name="psswd">Password</string>
+    <string name="forgot">forgot password</string>
+    <string name="remember">Remember me</string>
+</resources>
